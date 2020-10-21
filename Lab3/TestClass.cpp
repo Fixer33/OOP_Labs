@@ -4,7 +4,7 @@ TestClass::TestClass() : i(0), arr(new int[0])
 	
 }
 
-TestClass::TestClass(int val =, int* m) : i(val), arr(m)
+TestClass::TestClass(int val, int* m) : i(val), arr(m)
 {
 	
 }
