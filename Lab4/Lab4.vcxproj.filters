@@ -18,34 +18,34 @@
     <ClCompile Include="Lab4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CargoTransporter.cpp">
+    <ClCompile Include="Volleyball.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Plane.cpp">
+    <ClCompile Include="BeachVolley.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Train.cpp">
+    <ClCompile Include="GymVolley.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Automobile.cpp">
+    <ClCompile Include="OutsideVolley.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Variant7.txt" />
+    <ClInclude Include="Volleyball.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BeachVolley.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GymVolley.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OutsideVolley.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CargoTransporter.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Plane.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Train.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Automobile.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <Text Include="Variant22.txt" />
   </ItemGroup>
 </Project>

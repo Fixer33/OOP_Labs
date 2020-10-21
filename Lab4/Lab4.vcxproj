@@ -139,20 +139,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Automobile.cpp" />
-    <ClCompile Include="CargoTransporter.cpp" />
+    <ClCompile Include="BeachVolley.cpp" />
+    <ClCompile Include="GymVolley.cpp" />
     <ClCompile Include="Lab4.cpp" />
-    <ClCompile Include="Plane.cpp" />
-    <ClCompile Include="Train.cpp" />
+    <ClCompile Include="OutsideVolley.cpp" />
+    <ClCompile Include="Volleyball.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Variant7.txt" />
+    <Text Include="Variant22.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Automobile.h" />
-    <ClInclude Include="CargoTransporter.h" />
-    <ClInclude Include="Plane.h" />
-    <ClInclude Include="Train.h" />
+    <ClInclude Include="BeachVolley.h" />
+    <ClInclude Include="GymVolley.h" />
+    <ClInclude Include="OutsideVolley.h" />
+    <ClInclude Include="Volleyball.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
