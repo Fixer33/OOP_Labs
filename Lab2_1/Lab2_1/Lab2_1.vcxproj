@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{70f966e7-7e53-4fc9-84f2-7fcbd6e08d06}</ProjectGuid>
-    <RootNamespace>Lab4</RootNamespace>
+    <ProjectGuid>{92124469-55f1-4cfd-abe8-f563bd60662f}</ProjectGuid>
+    <RootNamespace>Lab21</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,23 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BeachVolley.cpp" />
-    <ClCompile Include="GymVolley.cpp" />
-    <ClCompile Include="Lab4.cpp" />
-    <ClCompile Include="OutsideVolley.cpp" />
-    <ClCompile Include="Volleyball.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="Variant22.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="BeachVolley.h" />
-    <ClInclude Include="GymVolley.h" />
-    <ClInclude Include="OutsideVolley.h" />
-    <ClInclude Include="Volleyball.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="ClassDiagram.cd" />
+    <ClCompile Include="Lab2_1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

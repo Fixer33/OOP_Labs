@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BeachVolley">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAAAAAAQAAAAAAgAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>BeachVolley.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GymVolley">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAIAEAAAEAAAAAAAgAAAAAAAIAAAAIAAAAAA=</HashCode>
+      <FileName>GymVolley.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OutsideVolley">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADAAAAAAQQAAAIAAQAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OutsideVolley.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Volleyball">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAIAAAAAAAQAAAAAggAAAAAAAAAACAAAAAAQ=</HashCode>
+      <FileName>Volleyball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
